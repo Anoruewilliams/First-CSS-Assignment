@@ -1,0 +1,23 @@
+body{
+    font-family: 'Mogra', cursive;
+}
+.container{
+background-color: lightgray ;
+}
+div h1{
+    font-size: 32px;
+    text-transform: uppercase;
+}
+div > p{
+font-size: 16px;
+line-height: 1.5;
+}
+div > ul{
+    font-size: 18px;
+    text-transform: uppercase;
+}
+div > a{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
